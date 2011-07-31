@@ -14,8 +14,8 @@
   <url>http://maven.apache.org</url>
   
   <modules>
-  	<module>../actividadesBusiness</module>
-  	<module>../actividades-web</module>
+  	<module>../../actividadesBusiness/actividadesBusiness</module>
+  	<module>../../actividades-web/actividades-web</module>
   </modules>
   
 </project>
